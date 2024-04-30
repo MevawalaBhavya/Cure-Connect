@@ -36,42 +36,42 @@ CureConnect is a groundbreaking web application designed to revolutionize health
 ### Features and their Tasks (12/12 Features completed  = 100% of project completed)
 
 - Features:
-  1. User Management - Bhavya Mevawala
+  1. User Management 
      * Sign Up
      * Log In
      * Forget Password
      * Logout
      * Profile Management
-  2. Patient Dashboard - Bhavya Mevawala
-  3. Doctor’s Appointment management - Heramb Kulkarni
+  2. Patient Dashboard 
+  3. Doctor’s Appointment management 
      * Doctor posting available appointment slots
      * Delete appointment slots
-  4. Doctor Patient Online Meeting - Heramb Kulkarni
+  4. Doctor Patient Online Meeting 
      * Doctor joining online appointment
      * Doctors can view medical history and prescribe medicines during meetings
-  5. Patient Appointment management - Aniket Mhatre
+  5. Patient Appointment management 
       * View available slots of Doctor
       * Patient Appointment booking
-  6. Medicine inventory management - Aniket Mhatre
+  6. Medicine inventory management 
       * Admin is uploading stock details of medicines using the built-in form
       * Admin updating stock details of medicines by uploading an Excel/CSV file
       * Admin can view, edit, and delete stock of each medicine
-  7. Medication Purchase for Patient - Shubham Pawar
+  7. Medication Purchase for Patient 
       * Select the appointment 
       * Edit the list of medicines to buy
       * Get order details
-  8. Past Appointment - Shubham Pawar
+  8. Past Appointment 
       * View and filter the list of patient's past appointments
       * View and download prescription
-  9. Doctor Approval feature for Admin - Manan Mistry
+  9. Doctor Approval feature for Admin 
       * Doctor’s approval
   10. Patient’s prescription management and medical history - Manan Mistry
       * Doctor views medical history and past prescriptions
       * Doctor updates an old prescription
-  11. Doctor Search and Filter for Patients - Parth Karkhanis
+  11. Doctor Search and Filter for Patients 
       * User wants to search doctors in find doctors page
       * Users want to read details about doctors
-  12. Doctor Profile Management - Parth Karkhanis
+  12. Doctor Profile Management 
       * Doctor Registration:Doctor can register themselves on cureconnect platform
       * Doctor Profile Updation:Doctor can edit his profile such as the password of the account
 
